@@ -1,2 +1,4 @@
 # Risk-Analysis-of-Applicants-in-Health-Insurance
+In this model, I have examined individual health records to predict the cost of insurance. Multiple Linear Regression, SVM, Random Forest Regression, and Gradient Boosting are four regression models used. The effectiveness of these algorithms have been compared and contrasted using decision tree regression. The models were trained using a dataset, and the predictions were aided by this training. The model was then tested and validated by comparing the amount predicted with the actual data. These models' accuracy levels were then compared. Gradient boosting and random forest regression methods outperformed linear regression and SVM. In this situation, gradient boosting works better because it requires substantially less computation power to produce the same performance metric.
+
 
